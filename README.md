@@ -22,19 +22,19 @@ The **Coal Miner AI Chatbot** is an AI-powered, multilingual assistant designed 
 
 ## Screenshots
 
-### 1. Main Chat Interface
+
 ![Screenshot 2023-12-21 233657](https://github.com/user-attachments/assets/6ff05efd-bb69-4c1d-ae49-6728f8426596)
 
 
-### 2. Voice Search Feature
+
 
 ![Screenshot 2023-12-21 233615](https://github.com/user-attachments/assets/ba3032bb-4d57-49c0-9b6b-73bf565b6223)
 
-### 3. Language Selection
+
 ![Screenshot 2023-12-21 233628](https://github.com/user-attachments/assets/29d77cb3-14fd-4209-bcff-5945824be4dd)
 
 
-### 4. Multilingual Chat Output
+
 ![Screenshot (108)](https://github.com/user-attachments/assets/9c07d874-acb8-4e42-ad96-eaa71cb04dc9)
 
 
