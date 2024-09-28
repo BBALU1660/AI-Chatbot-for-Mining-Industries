@@ -23,16 +23,20 @@ The **Coal Miner AI Chatbot** is an AI-powered, multilingual assistant designed 
 ## Screenshots
 
 ### 1. Main Chat Interface
-![Main Chat Interface](./screenshots/Screenshot1.png)
+![Screenshot 2023-12-21 233657](https://github.com/user-attachments/assets/6ff05efd-bb69-4c1d-ae49-6728f8426596)
+
 
 ### 2. Voice Search Feature
-![Voice Search Feature](./screenshots/Screenshot2.png)
+
+![Screenshot 2023-12-21 233615](https://github.com/user-attachments/assets/ba3032bb-4d57-49c0-9b6b-73bf565b6223)
 
 ### 3. Language Selection
-![Language Selection](./screenshots/Screenshot3.png)
+![Screenshot 2023-12-21 233628](https://github.com/user-attachments/assets/29d77cb3-14fd-4209-bcff-5945824be4dd)
+
 
 ### 4. Multilingual Chat Output
-![Multilingual Chat Output](./screenshots/Screenshot4.png)
+![Screenshot (108)](https://github.com/user-attachments/assets/9c07d874-acb8-4e42-ad96-eaa71cb04dc9)
+
 
 ## Installation Instructions
 
@@ -40,26 +44,30 @@ The **Coal Miner AI Chatbot** is an AI-powered, multilingual assistant designed 
 ```bash
 git clone https://github.com/username/repo.git
 cd repo
-2. Install Dependencies
+```
+### 2. Install Dependencies
 Set up a virtual environment and install the required Python libraries:
 
 bash
-Copy code
+```
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
+```
 3. Set up Environment Variables
 Create a .env file in the root directory with your API keys:
 
 makefile
-Copy code
+```
 OPENAI_API_KEY=your_openai_api_key
+```
 4. Run the Application
 Launch the Streamlit application:
 
 bash
-Copy code
+```
 streamlit run app.py
+```
 5. Add PDF Files
 Make sure to upload the mining-related PDF you want to search through. Place it in the root directory or provide its path when prompted.
 
