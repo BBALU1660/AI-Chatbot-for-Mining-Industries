@@ -78,7 +78,7 @@ Enter or speak your query.
 The chatbot processes the query and returns relevant information from the mining-related PDF.
 You can also translate the output into your preferred language and listen to it using text-to-speech.
 
-Team Members
+Team Members:
 
 Swaroop
 
