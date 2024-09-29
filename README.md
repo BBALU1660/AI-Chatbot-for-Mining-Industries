@@ -79,8 +79,13 @@ The chatbot processes the query and returns relevant information from the mining
 You can also translate the output into your preferred language and listen to it using text-to-speech.
 Team Members
 Swaroop
+
 Nikhil
+
 Abhinav
+
 Rohit
+
 Shanmukh
+
 Sahithi
